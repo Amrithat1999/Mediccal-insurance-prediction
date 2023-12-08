@@ -1,4 +1,6 @@
+
 project1
+    Using style
 
 app.py
 home.html
@@ -10,6 +12,7 @@ working-
 -----------------------------------------
 
 project2
+    Without using style
 
 app1.py
 home2.html
